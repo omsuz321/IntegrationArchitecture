@@ -10,7 +10,7 @@ import com.mongodb.client.MongoDatabase;
 
 public class test {
     public static void main(String[] args){
-        String uri = "mongodb+srv://omsuz321:ACT1Ja6mAQfdqWjL@cluster0.bjlxtjb.mongodb.net/?retryWrites=true&w=majority";
+        String uri = "mongodb+srv://omsuz321:<keepass>@cluster0.bjlxtjb.mongodb.net/?retryWrites=true&w=majority";
         try (MongoClient mongoClient = MongoClients.create(uri)) {
             MongoDatabase database = mongoClient.getDatabase("integration_architectrue");
             MongoCollection<Document> collection = database.getCollection("test");
