@@ -1,0 +1,13 @@
+
+k
+java:S2095"IUse try-with-resources or close this "MongoClient" in a "finally" clause.(þØ¥šûÿÿÿÿ8šø·ëµ1
+\
+java:S6213 ":Rename this variable to not match a restricted identifier.(ÞãºÑûÿÿÿÿ8žø·ëµ1
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(áÇÕÁ8£ø·ëµ1
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(ÿäÆÀýÿÿÿÿ8¤ø·ëµ1
+X
+java:S1128"6Remove this unused import 'java.sql.DatabaseMetaData'.(»à‹Ãøÿÿÿÿ8¡Þ¸ëµ1
+N
+java:S1128",Remove this unused import 'javax.print.Doc'.(ö«‘™ýÿÿÿÿ8¡Þ¸ëµ1
+Q
+java:S1068"4Remove this unused "pefromanceRecord" private field.(þì–Ä8¤ø·ëµ1
